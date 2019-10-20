@@ -45,9 +45,8 @@ background-color: #06bcf9;
 font-size: medium;
 }
 
-
-
-
+a {font-size: large;
+ } /*font size for the links <a>*/
 
 
 body {
